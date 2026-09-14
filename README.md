@@ -7,7 +7,7 @@
 Projects
 
 
- https://github.com/anirudhramesh04/Reference
+ [Bikeshare EDA Project](https://github.com/anirudhramesh04/Reference)
  - Capital Bikeshare: Member vs Casual Rider Analysis
  - Compare riding patterns by hour of day, day of week, weekday vs. weekend, and month
  - The project uses publicly available trip data from Capital Bikeshare.
