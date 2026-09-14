@@ -5,5 +5,6 @@
 
 
 Projects
-My personal project portfolio
-https://github.com/anirudhramesh04/EDA
+
+Title / Header: My personal project portfolio
+Repository Link: https://github.com/anirudhramesh04/EDA
