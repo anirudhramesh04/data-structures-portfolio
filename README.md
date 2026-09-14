@@ -5,5 +5,5 @@
 
 
 Projects
-
-https://github.com/anirudhramesh04/EDA_Project
+My personal project portfolio
+https://github.com/anirudhramesh04/EDA
